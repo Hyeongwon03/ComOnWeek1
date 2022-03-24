@@ -15,7 +15,7 @@ mark {
 }
 /*목차*/
 .index mark {
-    background-color: silver;
+    background-color: yellow;
 }
 .index ol {
     background-color: rgb(220,100,150);
@@ -26,7 +26,7 @@ mark {
     margin-bottom:10px;
 }
 .index li:hover {
-    background-color: aqua;
+    background-color: aquamarine;
     color:cadetblue;
 }
 .index a:hover {
@@ -65,6 +65,10 @@ mark {
 .link1 li {
     background-color:snow;
     margin-bottom: 10px;
+}
+.link1 li:hover {
+    background-color: aquamarine;
+    color:cadetblue;
 }
 .link1 a{
     text-decoration-line: none;
