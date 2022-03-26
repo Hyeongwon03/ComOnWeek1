@@ -58,24 +58,13 @@ mark {
     text-align:center;
 }
 /*링크*/
-.link1 ul {
-    background-color:antiquewhite;
-    width: 500px;
-}
-.link1 li {
-    background-color:snow;
-    margin-bottom: 10px;
-}
-.link1 li:hover {
-    background-color: aquamarine;
-    color:cadetblue;
-}
 .link1 a{
     text-decoration-line: none;
 }
 .link1 a:hover {
     text-decoration-line: underline;
     color: olivedrab;
+    background-color: rgb(200, 200, 255);
 }
 /*소사캠퍼스*/
 .school img {
